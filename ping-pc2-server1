@@ -1,0 +1,9 @@
+Request timed out.
+Reply from 10.0.40.100: bytes=32 time<1ms TTL=126
+Reply from 10.0.40.100: bytes=32 time<1ms TTL=126
+Reply from 10.0.40.100: bytes=32 time=1ms TTL=126
+
+Ping statistics for 10.0.40.100:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
