@@ -1,0 +1,2 @@
+# VIZSGA_HALOZAT
+vizsga
